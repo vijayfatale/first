@@ -23,6 +23,7 @@ public class Alien {
 	public void setAge(int age) {
 		this.age = age;
 		System.out.println("setter called");
+		System.out.print("vijay");
 	}
 
 	public Alien() {
